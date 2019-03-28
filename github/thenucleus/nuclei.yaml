@@ -1,0 +1,12 @@
+area: "thenucleus"
+name: "Nuclei"
+url: "https://github.com/thenucleus/Nuclei.git"
+refspecs:
+  - id: "feature"
+    refspec: "refs/heads/feature/**"
+  - id: "hotfix"
+    refspec: "refs/heads/hotfix/**"
+  - id: "master"
+    refspec: "refs/heads/master"
+  - id: "release"
+    refspec: "refs/heads/release/**"
